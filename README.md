@@ -19,14 +19,14 @@
 ### 🔧 [Gestionnaire de Finances Personnelles](https://github.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion_depenses)
 > Application Django pour gérer ses revenus et dépenses, avec conteneurisation Docker et prévision Kubernetes.
 
-![Finance Demo](https://raw.githubusercontent.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion_depenses/main/demo.gif)
+![Finance Demo](https://raw.githubusercontent.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion_depenses/demo/demo.gif)
 
 ---
 
 ### 🎓 [Plateforme Stages & Alternances](https://github.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion-stages-alternances)
 > Application Angular + Spring Boot pour gérer offres, candidatures, CV et rôles utilisateur, avec Dockerisation.
 
-![Stage Demo](https://raw.githubusercontent.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion-stages-alternances/main/stage_demo.gif)
+![Stage Demo](https://raw.githubusercontent.com/Teddy-Aimerick-TCHINDA-TAKUETE/gestion-stages-alternances/demo/demo.gif)
 
 ---
 
